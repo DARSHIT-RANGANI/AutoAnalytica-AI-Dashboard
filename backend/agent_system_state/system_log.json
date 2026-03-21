@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "run_id": "dc48187d0024468995d0fecc12332e1e",
+      "ts": "2026-03-20T09:52:55+00:00",
+      "summary": {
+        "best_model": "XGBoost",
+        "problem_type": "classification",
+        "tier": 2,
+        "cv_mean": null,
+        "test_score": 0.7567,
+        "confidence": "High",
+        "overfitting": false,
+        "error": null,
+        "total_elapsed_s": 770.01
+      },
+      "source": "external_record"
+    },
+    {
+      "run_id": "1bd3162b35fc4381854c70157c4bf218",
+      "ts": "2026-03-20T10:09:27+00:00",
+      "summary": {
+        "best_model": "XGBoost",
+        "problem_type": "classification",
+        "tier": 2,
+        "cv_mean": null,
+        "test_score": 0.7567,
+        "confidence": "High",
+        "overfitting": false,
+        "error": null,
+        "total_elapsed_s": 687.4
+      },
+      "source": "external_record"
+    },
+    {
+      "run_id": "9c503a197dd749f2aff7257db63c3c3f",
+      "ts": "2026-03-20T13:01:16+00:00",
+      "summary": {
+        "best_model": "XGBoost",
+        "problem_type": "classification",
+        "tier": 2,
+        "cv_mean": null,
+        "test_score": 0.7567,
+        "confidence": "High",
+        "overfitting": false,
+        "error": null,
+        "total_elapsed_s": 680.19
+      },
+      "source": "external_record"
+    },
+    {
+      "run_id": "0245cb82c3664cbbbc824b40510b0916",
+      "ts": "2026-03-20T13:33:11+00:00",
+      "summary": {
+        "best_model": "XGBoost",
+        "problem_type": "classification",
+        "tier": 2,
+        "cv_mean": null,
+        "test_score": 0.7567,
+        "confidence": "High",
+        "overfitting": false,
+        "error": null,
+        "total_elapsed_s": 746.83
+      },
+      "source": "external_record"
+    },
+    {
+      "run_id": "85807f708ceb49e5a3e85d05a731dde2",
+      "ts": "2026-03-20T15:47:29+00:00",
+      "summary": {
+        "best_model": "XGBoost",
+        "problem_type": "classification",
+        "tier": 2,
+        "cv_mean": null,
+        "test_score": 0.9354,
+        "confidence": "High",
+        "overfitting": false,
+        "error": null,
+        "total_elapsed_s": 1651.15
+      },
+      "source": "external_record"
+    },
+    {
+      "run_id": "22de8d73891040a9ac16abbdb684968f",
+      "ts": "2026-03-20T16:53:30+00:00",
+      "summary": {
+        "best_model": "Stacking(CatBoost+ExtraTrees+RandomForest)",
+        "problem_type": "regression",
+        "tier": 1,
+        "cv_mean": null,
+        "test_score": 0.3886,
+        "confidence": "Low",
+        "overfitting": true,
+        "error": null,
+        "total_elapsed_s": 752.69
+      },
+      "source": "external_record"
+    }
+  ],
+  "max_size": 500
+}

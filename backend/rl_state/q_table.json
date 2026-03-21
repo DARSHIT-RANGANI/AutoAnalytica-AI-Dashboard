@@ -1,0 +1,36 @@
+{
+  "classification|t2|rows:medium|feat:low|mis:clean|imb:n/a": {
+    "PRIORITISE_BOOSTING": {
+      "trials": 1,
+      "avg_reward": 0.7567,
+      "m2": 0.0
+    },
+    "NO_OVERRIDE": {
+      "trials": 1,
+      "avg_reward": 0.7567,
+      "m2": 0.0
+    },
+    "BOOST_ENSEMBLE": {
+      "trials": 1,
+      "avg_reward": 0.7567,
+      "m2": 0.0
+    },
+    "INCREASE_CV_FOLDS": {
+      "trials": 1,
+      "avg_reward": 0.7567,
+      "m2": 0.0
+    },
+    "APPLY_DISTILLATION": {
+      "trials": 1,
+      "avg_reward": 0.9354,
+      "m2": 0.0
+    }
+  },
+  "regression|t1|rows:small|feat:low|mis:clean|imb:n/a": {
+    "NO_OVERRIDE": {
+      "trials": 1,
+      "avg_reward": 0.1886,
+      "m2": 0.0
+    }
+  }
+}
