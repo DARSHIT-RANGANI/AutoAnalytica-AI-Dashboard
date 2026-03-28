@@ -13,19 +13,19 @@ This project is designed for **real-world ML automation**, **research**, and **p
 ## 📷 Application Preview
 
 <p align="center">
-  <img src="YOUR_SCREENSHOT_1" ><img width="960" height="3806" alt="screencapture-localhost-3000-2026-03-28-12_36_26" src="https://github.com/user-attachments/assets/72f7c782-f41c-4d60-a70a-158cb581f60d" width="900"/>
+  <img src="YOUR_SCREENSHOT_1" ><img width="960" height="3806" alt="screencapture-localhost-3000-2026-03-28-12_36_26" src="https://github.com/user-attachments/assets/72f7c782-f41c-4d60-a70a-158cb581f60d"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img width="960" height="3806" alt="screencapture-localhost-3000-2026-03-28-12_36_49" src="https://github.com/user-attachments/assets/02c8149a-1eea-43c2-bab5-7d92240bc612" width="900"/>
+  <img width="960" height="3806" alt="screencapture-localhost-3000-2026-03-28-12_36_49" src="https://github.com/user-attachments/assets/02c8149a-1eea-43c2-bab5-7d92240bc612"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="YOUR_SCREENSHOT_3" ><img width="728" height="5608" alt="fullpage" src="https://github.com/user-attachments/assets/66b69e79-dcaf-46f8-9f97-93fb56d5ae52" width="900"/>
+  <img src="YOUR_SCREENSHOT_3" ><img width="728" height="5608" alt="fullpage" src="https://github.com/user-attachments/assets/66b69e79-dcaf-46f8-9f97-93fb56d5ae52"/>
 </p>
 
 <br>
